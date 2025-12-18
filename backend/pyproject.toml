@@ -1,0 +1,7 @@
+[project]
+name = "ultraskate-buddy-api"
+version = "0.1.0"
+description = "Ultraskate Stats Viewer"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
